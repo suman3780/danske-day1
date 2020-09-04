@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "danske-day1"
+    }
+  },
+  "defaultProject": "danske-day1",
+  "cli": {
+    "analytics": "967479e7-73ce-49b5-b9b4-df7c224927f7"
+  }
 }
